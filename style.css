@@ -61,3 +61,20 @@ a:hover{
 .logo:hover{
     cursor: default;
 }
+
+/* Hamburger menu */
+#hamburger-nav{
+    display: none;
+}
+.hamburger-menu{
+    position: relative;
+    display: inline-block;
+}
+.hamburger-icon{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 24px;
+    width: 30;
+    cursor: pointer;
+}
