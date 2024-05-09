@@ -148,6 +148,7 @@ a:hover {
     transform: none;
 }
 
+
 /* Section */
 
 section {
@@ -295,6 +296,8 @@ section {
 
 .about-pic {
     border-radius: 2rem;
+    margin-left: 2rem;
+
 }
 
 .arrow {
